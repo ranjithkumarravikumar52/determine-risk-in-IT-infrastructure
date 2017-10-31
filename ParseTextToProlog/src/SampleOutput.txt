@@ -1,0 +1,518 @@
+
+Compiling the file:
+C:\Users\hokie\OneDrive\Documents\UNCCFiles\ITIS6230InfoInfrastProtect\Assignments\Project\FinalProjectNetflow.pro
+0 errors, 0 warnings.
+
+Error 9: Empty clause.
+Error 9: Empty clause.
+
+ALL SOURCE IP ADDR FOR EACH DESTINATION IP ADDR
+
+---------------------------------------------------------------------------------------
+Destination IP: 147.32.80.9
+Source IPs communicating with Destination IP: 
+[147.32.84.138]
+
+Destination IP: 147.32.84.229
+Source IPs communicating with Destination IP: 
+[212.59.9.106, 186.204.215.229, 83.137.254.245, 58.72.174.152, 77.100.246.74, 217.164.10.229, 123.1.72.4, 98.127.111.126, 79.129.201.26, 94.208.78.74, 24.117.206.20, 182.239.167.121, 66.169.184.207, 74.89.223.204, 84.13.246.132, 212.50.71.179]
+
+Destination IP: 147.32.86.141
+Source IPs communicating with Destination IP: 
+[178.236.4.29]
+
+Destination IP: 147.32.84.130
+Source IPs communicating with Destination IP: 
+[109.183.212.236]
+
+Destination IP: 31.9.113.254
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 74.125.232.215
+Source IPs communicating with Destination IP: 
+[147.32.84.59]
+
+Destination IP: 147.32.84.184
+Source IPs communicating with Destination IP: 
+[199.59.148.20]
+
+Destination IP: 147.32.85.112
+Source IPs communicating with Destination IP: 
+[147.32.80.13]
+
+Destination IP: 83.78.136.90
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 93.45.94.195
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 213.142.200.29
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 212.217.56.83
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 147.32.84.59
+Source IPs communicating with Destination IP: 
+[94.124.104.196, 74.200.246.228, 147.32.3.93]
+
+Destination IP: 147.32.86.194
+Source IPs communicating with Destination IP: 
+[77.238.167.32, 217.163.21.35]
+
+Destination IP: 147.32.84.162
+Source IPs communicating with Destination IP: 
+[147.32.80.13]
+
+Destination IP: 217.163.21.35
+Source IPs communicating with Destination IP: 
+[147.32.86.194]
+
+Destination IP: 147.32.85.5
+Source IPs communicating with Destination IP: 
+[83.3.77.74]
+
+
+ALL DESTINATION IP ADDR FOR EACH SOURCE IP ADDR
+
+---------------------------------------------------------------------------------------
+Source IP: 147.32.84.138
+Destination IPs that Source IP is Communicating with: 
+[147.32.80.9]
+
+Source IP: 212.59.9.106
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 178.236.4.29
+Destination IPs that Source IP is Communicating with: 
+[147.32.86.141]
+
+Source IP: 109.183.212.236
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.130]
+
+Source IP: 147.32.84.229
+Destination IPs that Source IP is Communicating with: 
+[31.9.113.254, 83.78.136.90, 93.45.94.195, 213.142.200.29, 212.217.56.83]
+
+Source IP: 186.204.215.229
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 147.32.84.59
+Destination IPs that Source IP is Communicating with: 
+[74.125.232.215]
+
+Source IP: 83.137.254.245
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 58.72.174.152
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 77.100.246.74
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 199.59.148.20
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.184]
+
+Source IP: 217.164.10.229
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 147.32.80.13
+Destination IPs that Source IP is Communicating with: 
+[147.32.85.112, 147.32.84.162]
+
+Source IP: 123.1.72.4
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 98.127.111.126
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 94.124.104.196
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.59]
+
+Source IP: 77.238.167.32
+Destination IPs that Source IP is Communicating with: 
+[147.32.86.194]
+
+Source IP: 74.200.246.228
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.59]
+
+Source IP: 147.32.86.194
+Destination IPs that Source IP is Communicating with: 
+[217.163.21.35]
+
+Source IP: 79.129.201.26
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 94.208.78.74
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 24.117.206.20
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 147.32.3.93
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.59]
+
+Source IP: 182.239.167.121
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 66.169.184.207
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 74.89.223.204
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 83.3.77.74
+Destination IPs that Source IP is Communicating with: 
+[147.32.85.5]
+
+Source IP: 217.163.21.35
+Destination IPs that Source IP is Communicating with: 
+[147.32.86.194]
+
+Source IP: 84.13.246.132
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 212.50.71.179
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+
+SAMPLE OF DIFFERENT DATABASE QUERIES
+
+---------------------------------------------------------------------------------------
+Query 1 Average Flow Duration for flows to IP Addr:
+147.32.84.229 
+Average Duration: 1898.86 secs, # of flows: 16
+
+Query 2 Average Flow Duration for flows to IP Addr:Port#:
+74.125.232.215:443 
+Average Duration: 3572.48 secs, # of flows: 1
+
+Query 3 Average Flow Duration for flows from IP Addr:
+147.32.84.229 
+Average Duration: 2964.23 secs, # of flows: 5
+
+Query 4 Average Flow Duration for flows from IP Addr:Port#:
+147.32.84.229:443
+Average Duration: 3543.61 secs, # of flows: 2
+
+Query 6 total bytes sent from IP Addr:
+147.32.84.229
+Total Bytes Sent: 429010
+
+Query 7 total bytes sent from IP Addr/Port:
+147.32.84.229:443
+Total Bytes Sent: 364260
+
+QUERIES TO FIND HIGH RISK NODES
+--------------------------------------------------------------------------------------
+
+Query 8 Average Duration of All Flows: 
+Average Duration: 1371.53 secs
+
+Query 9 Find Flow with Duration Greater than 200% of Average Flow Duration:
+[StartDate,StartHour,StartMin,StartSec,Dur,Proto,SrcIP,Sport,DestIP,DestP,TotPackets,TotalBytes]
+[2011/08/10, 9, 46, 53.1405, 3144.87, udp, 212.59.9.106, 15036, 147.32.84.229, 13363, 4, 266]
+[2011/08/10, 9, 46, 53.1316, 3133.97, udp, 186.204.215.229, 12677, 147.32.84.229, 13363, 10, 1218]
+[2011/08/10, 9, 46, 53.125, 3572.48, tcp, 147.32.84.59, 49238, 74.125.232.215, 443, 1332, 627474]
+[2011/08/10, 9, 46, 53.105, 3599.98, tcp, 147.32.84.229, 13363, 83.78.136.90, 52573, 164, 12065]
+[2011/08/10, 9, 46, 53.105, 3514.61, tcp, 147.32.84.229, 13363, 93.45.94.195, 44977, 310, 52117]
+[2011/08/10, 9, 46, 53.1049, 3591.92, tcp, 147.32.84.229, 443, 213.142.200.29, 10004, 4360, 339588]
+[2011/08/10, 9, 46, 53.1049, 3495.3, tcp, 147.32.84.229, 443, 212.217.56.83, 58258, 287, 24672]
+[2011/08/10, 9, 46, 53.0783, 3599.97, tcp, 147.32.80.13, 80, 147.32.84.162, 51769, 72157, 61638544]
+[2011/08/10, 9, 46, 53.0621, 3118.47, udp, 24.117.206.20, 8697, 147.32.84.229, 13363, 13, 4328]
+[2011/08/10, 9, 46, 53.0587, 3589.63, udp, 182.239.167.121, 49649, 147.32.84.229, 13363, 12, 1494]
+[2011/08/10, 9, 46, 53.0569, 3086.55, tcp, 66.169.184.207, 49372, 147.32.84.229, 13363, 591, 45931]
+[2011/08/10, 9, 46, 53.0539, 3427.77, udp, 74.89.223.204, 21278, 147.32.84.229, 13363, 42, 2856]
+[2011/08/10, 9, 46, 53.0473, 3550.18, udp, 212.50.71.179, 39678, 147.32.84.229, 13363, 12, 875]
+
+
+Query 10 Find Flow with Duration Greater than 200% of Average Flow Duration and Avg.Bandwidth greater than 1% of Total Bandwidth(10Mbps Connection[1,000,000bps]):
+[StartDate,StartHour,StartMin,StartSec,Dur,Proto,SrcIP,Sport,DestIP,DestP,TotPackets,TotalBytes,Bandwidth(bps)]
+[2011/08/10, 9, 46, 53.0783, 3599.97, tcp, 147.32.80.13, 80, 147.32.84.162, 51769, 72157, 61638544, 6.16385E+007 / 3599.97]
+
+Yes.
+
+Compiling the file:
+C:\Users\hokie\OneDrive\Documents\UNCCFiles\ITIS6230InfoInfrastProtect\Assignments\Project\FinalProjectNetflow.pro
+0 errors, 0 warnings.
+
+Error 9: Empty clause.
+Error 9: Empty clause.
+
+ALL SOURCE IP ADDR FOR EACH DESTINATION IP ADDR
+
+---------------------------------------------------------------------------------------
+Destination IP: 147.32.80.9
+Source IPs communicating with Destination IP: 
+[147.32.84.138]
+
+Destination IP: 147.32.84.229
+Source IPs communicating with Destination IP: 
+[212.59.9.106, 186.204.215.229, 83.137.254.245, 58.72.174.152, 77.100.246.74, 217.164.10.229, 123.1.72.4, 98.127.111.126, 79.129.201.26, 94.208.78.74, 24.117.206.20, 182.239.167.121, 66.169.184.207, 74.89.223.204, 84.13.246.132, 212.50.71.179]
+
+Destination IP: 147.32.86.141
+Source IPs communicating with Destination IP: 
+[178.236.4.29]
+
+Destination IP: 147.32.84.130
+Source IPs communicating with Destination IP: 
+[109.183.212.236]
+
+Destination IP: 31.9.113.254
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 74.125.232.215
+Source IPs communicating with Destination IP: 
+[147.32.84.59]
+
+Destination IP: 147.32.84.184
+Source IPs communicating with Destination IP: 
+[199.59.148.20]
+
+Destination IP: 147.32.85.112
+Source IPs communicating with Destination IP: 
+[147.32.80.13]
+
+Destination IP: 83.78.136.90
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 93.45.94.195
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 213.142.200.29
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 212.217.56.83
+Source IPs communicating with Destination IP: 
+[147.32.84.229]
+
+Destination IP: 147.32.84.59
+Source IPs communicating with Destination IP: 
+[94.124.104.196, 74.200.246.228, 147.32.3.93]
+
+Destination IP: 147.32.86.194
+Source IPs communicating with Destination IP: 
+[77.238.167.32, 217.163.21.35]
+
+Destination IP: 147.32.84.162
+Source IPs communicating with Destination IP: 
+[147.32.80.13]
+
+Destination IP: 217.163.21.35
+Source IPs communicating with Destination IP: 
+[147.32.86.194]
+
+Destination IP: 147.32.85.5
+Source IPs communicating with Destination IP: 
+[83.3.77.74]
+
+
+ALL DESTINATION IP ADDR FOR EACH SOURCE IP ADDR
+
+---------------------------------------------------------------------------------------
+Source IP: 147.32.84.138
+Destination IPs that Source IP is Communicating with: 
+[147.32.80.9]
+
+Source IP: 212.59.9.106
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 178.236.4.29
+Destination IPs that Source IP is Communicating with: 
+[147.32.86.141]
+
+Source IP: 109.183.212.236
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.130]
+
+Source IP: 147.32.84.229
+Destination IPs that Source IP is Communicating with: 
+[31.9.113.254, 83.78.136.90, 93.45.94.195, 213.142.200.29, 212.217.56.83]
+
+Source IP: 186.204.215.229
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 147.32.84.59
+Destination IPs that Source IP is Communicating with: 
+[74.125.232.215]
+
+Source IP: 83.137.254.245
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 58.72.174.152
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 77.100.246.74
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 199.59.148.20
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.184]
+
+Source IP: 217.164.10.229
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 147.32.80.13
+Destination IPs that Source IP is Communicating with: 
+[147.32.85.112, 147.32.84.162]
+
+Source IP: 123.1.72.4
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 98.127.111.126
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 94.124.104.196
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.59]
+
+Source IP: 77.238.167.32
+Destination IPs that Source IP is Communicating with: 
+[147.32.86.194]
+
+Source IP: 74.200.246.228
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.59]
+
+Source IP: 147.32.86.194
+Destination IPs that Source IP is Communicating with: 
+[217.163.21.35]
+
+Source IP: 79.129.201.26
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 94.208.78.74
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 24.117.206.20
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 147.32.3.93
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.59]
+
+Source IP: 182.239.167.121
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 66.169.184.207
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 74.89.223.204
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 83.3.77.74
+Destination IPs that Source IP is Communicating with: 
+[147.32.85.5]
+
+Source IP: 217.163.21.35
+Destination IPs that Source IP is Communicating with: 
+[147.32.86.194]
+
+Source IP: 84.13.246.132
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+Source IP: 212.50.71.179
+Destination IPs that Source IP is Communicating with: 
+[147.32.84.229]
+
+
+SAMPLE OF DIFFERENT DATABASE QUERIES
+
+---------------------------------------------------------------------------------------
+Query 1 Average Flow Duration for flows to IP Addr:
+147.32.84.229 
+Average Duration: 1898.86 secs, # of flows: 16
+
+Query 2 Average Flow Duration for flows to IP Addr:Port#:
+74.125.232.215:443 
+Average Duration: 3572.48 secs, # of flows: 1
+
+Query 3 Average Flow Duration for flows from IP Addr:
+147.32.84.229 
+Average Duration: 2964.23 secs, # of flows: 5
+
+Query 4 Average Flow Duration for flows from IP Addr:Port#:
+147.32.84.229:443
+Average Duration: 3543.61 secs, # of flows: 2
+
+Query 6 total bytes sent from IP Addr:
+147.32.84.229
+Total Bytes Sent: 429010
+
+Query 7 total bytes sent from IP Addr/Port:
+147.32.84.229:443
+Total Bytes Sent: 364260
+
+QUERIES TO FIND HIGH RISK NODES
+--------------------------------------------------------------------------------------
+
+Query 8 Average Duration of All Flows: 
+Average Duration: 1371.53 secs
+
+Query 9 Find Flow with Duration Greater than 200% of Average Flow Duration:
+[StartDate,StartHour,StartMin,StartSec,Dur,Proto,SrcIP,Sport,DestIP,DestP,TotPackets,TotalBytes]
+[2011/08/10, 9, 46, 53.1405, 3144.87, udp, 212.59.9.106, 15036, 147.32.84.229, 13363, 4, 266]
+[2011/08/10, 9, 46, 53.1316, 3133.97, udp, 186.204.215.229, 12677, 147.32.84.229, 13363, 10, 1218]
+[2011/08/10, 9, 46, 53.125, 3572.48, tcp, 147.32.84.59, 49238, 74.125.232.215, 443, 1332, 627474]
+[2011/08/10, 9, 46, 53.105, 3599.98, tcp, 147.32.84.229, 13363, 83.78.136.90, 52573, 164, 12065]
+[2011/08/10, 9, 46, 53.105, 3514.61, tcp, 147.32.84.229, 13363, 93.45.94.195, 44977, 310, 52117]
+[2011/08/10, 9, 46, 53.1049, 3591.92, tcp, 147.32.84.229, 443, 213.142.200.29, 10004, 4360, 339588]
+[2011/08/10, 9, 46, 53.1049, 3495.3, tcp, 147.32.84.229, 443, 212.217.56.83, 58258, 287, 24672]
+[2011/08/10, 9, 46, 53.0783, 3599.97, tcp, 147.32.80.13, 80, 147.32.84.162, 51769, 72157, 61638544]
+[2011/08/10, 9, 46, 53.0621, 3118.47, udp, 24.117.206.20, 8697, 147.32.84.229, 13363, 13, 4328]
+[2011/08/10, 9, 46, 53.0587, 3589.63, udp, 182.239.167.121, 49649, 147.32.84.229, 13363, 12, 1494]
+[2011/08/10, 9, 46, 53.0569, 3086.55, tcp, 66.169.184.207, 49372, 147.32.84.229, 13363, 591, 45931]
+[2011/08/10, 9, 46, 53.0539, 3427.77, udp, 74.89.223.204, 21278, 147.32.84.229, 13363, 42, 2856]
+[2011/08/10, 9, 46, 53.0473, 3550.18, udp, 212.50.71.179, 39678, 147.32.84.229, 13363, 12, 875]
+
+
+Query 10 Find Flow with Duration Greater than 200% of Average Flow Duration and Avg.Bandwidth greater than 1% of Total Bandwidth(10Mbps Connection[1,000,000bps]):
+[StartDate,StartHour,StartMin,StartSec,Dur,Proto,SrcIP,Sport,DestIP,DestP,TotPackets,TotalBytes,Bandwidth(bps)]
+[2011/08/10, 9, 46, 53.0783, 3599.97, tcp, 147.32.80.13, 80, 147.32.84.162, 51769, 72157, 61638544, 6.16385E+007 / 3599.97]
+
+Yes.
